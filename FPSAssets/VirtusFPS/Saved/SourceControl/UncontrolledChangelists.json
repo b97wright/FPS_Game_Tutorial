@@ -7,7 +7,10 @@
 			"files": [
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Maps/FirstPersonExampleMap.umap",
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
-				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/MFA1_Gun.uasset"
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/MFA1_Gun.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/Arms_AnimBP.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/Movement_BS.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/MovementLegacy_BS.uasset"
 			]
 		}
 	]
