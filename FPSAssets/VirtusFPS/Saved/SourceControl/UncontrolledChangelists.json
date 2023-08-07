@@ -12,7 +12,8 @@
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/Movement_BS.uasset",
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/MovementLegacy_BS.uasset",
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/Arms_Fire.uasset",
-				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset"
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/WB_FPSHUD.uasset"
 			]
 		}
 	]
