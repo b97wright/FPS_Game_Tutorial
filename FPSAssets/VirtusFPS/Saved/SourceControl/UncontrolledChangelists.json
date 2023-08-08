@@ -13,7 +13,19 @@
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/MovementLegacy_BS.uasset",
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/Arms/Arms_Animations/Arms_Fire.uasset",
 				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
-				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/WB_FPSHUD.uasset"
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/FirstPersonBP/Blueprints/WB_FPSHUD.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Ammo_Icon.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Bar_Empty.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Crosshair.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Health_Fill.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/HealthIcon.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/HitMarker.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Left_BG.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/M4A1_Icon.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/R_Icon.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Right_BG.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/Stamina_Fill.uasset",
+				"F:/Documents/UE5 Projects/FPS_Game_Tutorial/FPSAssets/VirtusFPS/Content/FPSAssets/UI_Assets/StaminaIcon.uasset"
 			]
 		}
 	]
